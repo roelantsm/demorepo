@@ -1,0 +1,14 @@
+D:\c#\plural\bin\Debug\netcoreapp2.1\plural.deps.json
+D:\c#\plural\bin\Debug\netcoreapp2.1\plural.runtimeconfig.json
+D:\c#\plural\bin\Debug\netcoreapp2.1\plural.runtimeconfig.dev.json
+D:\c#\plural\bin\Debug\netcoreapp2.1\plural.dll
+D:\c#\plural\bin\Debug\netcoreapp2.1\plural.pdb
+D:\c#\plural\obj\Debug\netcoreapp2.1\plural.csprojAssemblyReference.cache
+D:\c#\plural\obj\Debug\netcoreapp2.1\plural.csproj.CoreCompileInputs.cache
+D:\c#\plural\obj\Debug\netcoreapp2.1\plural.RazorAssemblyInfo.cache
+D:\c#\plural\obj\Debug\netcoreapp2.1\plural.RazorAssemblyInfo.cs
+D:\c#\plural\obj\Debug\netcoreapp2.1\plural.AssemblyInfoInputs.cache
+D:\c#\plural\obj\Debug\netcoreapp2.1\plural.AssemblyInfo.cs
+D:\c#\plural\obj\Debug\netcoreapp2.1\plural.RazorTargetAssemblyInfo.cache
+D:\c#\plural\obj\Debug\netcoreapp2.1\plural.dll
+D:\c#\plural\obj\Debug\netcoreapp2.1\plural.pdb
